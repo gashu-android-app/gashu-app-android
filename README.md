@@ -10,9 +10,7 @@
 📒 [팀 노션](https://www.notion.so/1f1800c9877b8000a4e9fc894388a939?source=copy_link)
 
 ---
-
-![메인화면](./assets/main.png)
-
+<img src="assets/main.png" alt="메인화면" width="700"/>
 
 
 
@@ -43,11 +41,10 @@ AI 기반 교통 도우미 서비스입니다.
 ---
 
 ## 👷🏾 서비스 아키텍쳐
-![서비스아키텍쳐](./assets/service.png)
-
+<img src="assets/service.png" alt="서비스아키텍쳐" width="700"/>
 
 ## 🚧 시스템 아키텍쳐
-![시스템 아키텍쳐](./assets/archi.png)
+<img src="assets/archi.png" alt="시스템 아키텍쳐" width="700"/>
 
 ---
 
